@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 You've landed on [Xhezairbey](https://xhezairi.com)'s fields of open-source mishmash.
 
-Sometimes, when I get the decent vibes, I build my own and contribute to other open-source projects:
+Sometimes, when I get the decent vibes, I build my own stuff and/or contribute to other open-source projects:
 
 - [Chyrp](https://github.com/chyrp/chyrp) - The ultra-lightweight ultra-flexible blogging engine with a fetish for birds and misspellings
 - [SForce](https://github.com/xhezairbey/sforce-rest-api-php) - A Salesforce REST API wrapper for PHP applications
